@@ -7,3 +7,6 @@ NOT FINANCIAL ADVICE. I EAT CRAYONS. FUCK YOU KEVIN.
 If yall don't know how to use GitHub, No worries! Just click on "View code" and there will be a whole list of PDFs. Just make sure to click on the name of file directly instead of the update.
 
 //Important: When it says (OPEN IN NEW DOCUMENT) or (OPEN PDF) next to a reference to a link or dd inside a pdf, it's because the github already has that as a pdf document; search for it by the title. Enjoy!
+
+
+//UPDATE 20 MAY 2021 : Now serves as archive for SEC and other GOVT fillings. Added DD that explains why you should care about these. 
